@@ -1,8 +1,11 @@
 {
-  "projectName": "חנות-בגדים-ביתא-1481",
-  "businessName": "חנות בגדים ביתא",
-  "created": "2025-04-06T09:25:04.875Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-06T09:26:30.239Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-chnvt-bgdym-byta-1743931474418"
 }
